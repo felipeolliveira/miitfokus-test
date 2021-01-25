@@ -1,4 +1,4 @@
-# Teste de TODO List Mifocus
+# Teste de TODO List Mifokus
 
 O teste foi realizado utilizando o conceito de API Rest, tendo assim um backend em NodeJS que comunica via HTTP, utilizando JSON, para um front-end web desenvolvido em React. Tentei usar o mínimo de bibliotecas possível.
 
